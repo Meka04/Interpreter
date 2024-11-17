@@ -1,0 +1,1248 @@
+PrgState : 
+Exec stack:
+(String varf;(varf = test.in;(model.statements.OpenRFile@5197848c;(int varc;(model.statements.ReadFileStatement@17f052a3;(print(varc);(model.statements.ReadFileStatement@2e0fa5d3;(print(varc);model.statements.CloseRFile@5010be6))))))))
+
+Symtable {
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(varf = test.in;(model.statements.OpenRFile@5197848c;(int varc;(model.statements.ReadFileStatement@17f052a3;(print(varc);(model.statements.ReadFileStatement@2e0fa5d3;(print(varc);model.statements.CloseRFile@5010be6)))))))
+String varf
+
+Symtable {
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(varf = test.in;(model.statements.OpenRFile@5197848c;(int varc;(model.statements.ReadFileStatement@17f052a3;(print(varc);(model.statements.ReadFileStatement@2e0fa5d3;(print(varc);model.statements.CloseRFile@5010be6)))))))
+
+Symtable {
+varf->
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(model.statements.OpenRFile@5197848c;(int varc;(model.statements.ReadFileStatement@17f052a3;(print(varc);(model.statements.ReadFileStatement@2e0fa5d3;(print(varc);model.statements.CloseRFile@5010be6))))))
+varf = test.in
+
+Symtable {
+varf->
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(model.statements.OpenRFile@5197848c;(int varc;(model.statements.ReadFileStatement@17f052a3;(print(varc);(model.statements.ReadFileStatement@2e0fa5d3;(print(varc);model.statements.CloseRFile@5010be6))))))
+
+Symtable {
+varf->test.in
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(int varc;(model.statements.ReadFileStatement@17f052a3;(print(varc);(model.statements.ReadFileStatement@2e0fa5d3;(print(varc);model.statements.CloseRFile@5010be6)))))
+model.statements.OpenRFile@5197848c
+
+Symtable {
+varf->test.in
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(String varf;(varf = test.in;(model.statements.OpenRFile@5197848c;(int varc;(model.statements.ReadFileStatement@17f052a3;(print(varc);(model.statements.ReadFileStatement@2e0fa5d3;(print(varc);model.statements.CloseRFile@5010be6))))))))
+
+Symtable {
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(varf = test.in;(model.statements.OpenRFile@5197848c;(int varc;(model.statements.ReadFileStatement@17f052a3;(print(varc);(model.statements.ReadFileStatement@2e0fa5d3;(print(varc);model.statements.CloseRFile@5010be6)))))))
+String varf
+
+Symtable {
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(varf = test.in;(model.statements.OpenRFile@5197848c;(int varc;(model.statements.ReadFileStatement@17f052a3;(print(varc);(model.statements.ReadFileStatement@2e0fa5d3;(print(varc);model.statements.CloseRFile@5010be6)))))))
+
+Symtable {
+varf->
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(model.statements.OpenRFile@5197848c;(int varc;(model.statements.ReadFileStatement@17f052a3;(print(varc);(model.statements.ReadFileStatement@2e0fa5d3;(print(varc);model.statements.CloseRFile@5010be6))))))
+varf = test.in
+
+Symtable {
+varf->
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(model.statements.OpenRFile@5197848c;(int varc;(model.statements.ReadFileStatement@17f052a3;(print(varc);(model.statements.ReadFileStatement@2e0fa5d3;(print(varc);model.statements.CloseRFile@5010be6))))))
+
+Symtable {
+varf->test.in
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(int varc;(model.statements.ReadFileStatement@17f052a3;(print(varc);(model.statements.ReadFileStatement@2e0fa5d3;(print(varc);model.statements.CloseRFile@5010be6)))))
+model.statements.OpenRFile@5197848c
+
+Symtable {
+varf->test.in
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+
+Symtable {
+varf->test.in
+}
+
+Output list: []
+FileTable:
+test.in
+
+PrgState : 
+Exec stack:
+(String varf;(varf = test.in;(model.statements.OpenRFile@5197848c;(int varc;(model.statements.ReadFileStatement@17f052a3;(print(varc);(model.statements.ReadFileStatement@2e0fa5d3;(print(varc);model.statements.CloseRFile@5010be6))))))))
+
+Symtable {
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(varf = test.in;(model.statements.OpenRFile@5197848c;(int varc;(model.statements.ReadFileStatement@17f052a3;(print(varc);(model.statements.ReadFileStatement@2e0fa5d3;(print(varc);model.statements.CloseRFile@5010be6)))))))
+String varf
+
+Symtable {
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(varf = test.in;(model.statements.OpenRFile@5197848c;(int varc;(model.statements.ReadFileStatement@17f052a3;(print(varc);(model.statements.ReadFileStatement@2e0fa5d3;(print(varc);model.statements.CloseRFile@5010be6)))))))
+
+Symtable {
+varf->
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(model.statements.OpenRFile@5197848c;(int varc;(model.statements.ReadFileStatement@17f052a3;(print(varc);(model.statements.ReadFileStatement@2e0fa5d3;(print(varc);model.statements.CloseRFile@5010be6))))))
+varf = test.in
+
+Symtable {
+varf->
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(model.statements.OpenRFile@5197848c;(int varc;(model.statements.ReadFileStatement@17f052a3;(print(varc);(model.statements.ReadFileStatement@2e0fa5d3;(print(varc);model.statements.CloseRFile@5010be6))))))
+
+Symtable {
+varf->test.in
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(int varc;(model.statements.ReadFileStatement@17f052a3;(print(varc);(model.statements.ReadFileStatement@2e0fa5d3;(print(varc);model.statements.CloseRFile@5010be6)))))
+model.statements.OpenRFile@5197848c
+
+Symtable {
+varf->test.in
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+
+Symtable {
+varf->test.in
+}
+
+Output list: []
+FileTable:
+test.in
+
+PrgState : 
+Exec stack:
+(String varf;(varf = test.in;(model.statements.OpenRFile@3c756e4d;(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff))))))))
+
+Symtable {
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(varf = test.in;(model.statements.OpenRFile@3c756e4d;(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff)))))))
+String varf
+
+Symtable {
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(varf = test.in;(model.statements.OpenRFile@3c756e4d;(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff)))))))
+
+Symtable {
+varf->
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(model.statements.OpenRFile@3c756e4d;(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff))))))
+varf = test.in
+
+Symtable {
+varf->
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(model.statements.OpenRFile@3c756e4d;(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff))))))
+
+Symtable {
+varf->test.in
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff)))))
+model.statements.OpenRFile@3c756e4d
+
+Symtable {
+varf->test.in
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+
+Symtable {
+varf->test.in
+}
+
+Output list: []
+FileTable:
+test.in
+
+PrgState : 
+Exec stack:
+(String varf;(varf = test.in;(model.statements.OpenRFile@4de8b406;(int varc;(model.statements.ReadFileStatement@3c756e4d;(print(varc);(model.statements.ReadFileStatement@7c0e2abd;(print(varc);model.statements.CloseRFile@48eff760))))))))
+
+Symtable {
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(varf = test.in;(model.statements.OpenRFile@4de8b406;(int varc;(model.statements.ReadFileStatement@3c756e4d;(print(varc);(model.statements.ReadFileStatement@7c0e2abd;(print(varc);model.statements.CloseRFile@48eff760)))))))
+String varf
+
+Symtable {
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(varf = test.in;(model.statements.OpenRFile@4de8b406;(int varc;(model.statements.ReadFileStatement@3c756e4d;(print(varc);(model.statements.ReadFileStatement@7c0e2abd;(print(varc);model.statements.CloseRFile@48eff760)))))))
+
+Symtable {
+varf->
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(model.statements.OpenRFile@4de8b406;(int varc;(model.statements.ReadFileStatement@3c756e4d;(print(varc);(model.statements.ReadFileStatement@7c0e2abd;(print(varc);model.statements.CloseRFile@48eff760))))))
+varf = test.in
+
+Symtable {
+varf->
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(model.statements.OpenRFile@4de8b406;(int varc;(model.statements.ReadFileStatement@3c756e4d;(print(varc);(model.statements.ReadFileStatement@7c0e2abd;(print(varc);model.statements.CloseRFile@48eff760))))))
+
+Symtable {
+varf->test.in
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(int varc;(model.statements.ReadFileStatement@3c756e4d;(print(varc);(model.statements.ReadFileStatement@7c0e2abd;(print(varc);model.statements.CloseRFile@48eff760)))))
+model.statements.OpenRFile@4de8b406
+
+Symtable {
+varf->test.in
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+
+Symtable {
+varf->test.in
+}
+
+Output list: []
+FileTable:
+test.in
+
+PrgState : 
+Exec stack:
+(String varf;(varf = test.in;(model.statements.OpenRFile@3c756e4d;(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff))))))))
+
+Symtable {
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(varf = test.in;(model.statements.OpenRFile@3c756e4d;(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff)))))))
+String varf
+
+Symtable {
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(varf = test.in;(model.statements.OpenRFile@3c756e4d;(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff)))))))
+
+Symtable {
+varf->
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(model.statements.OpenRFile@3c756e4d;(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff))))))
+varf = test.in
+
+Symtable {
+varf->
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(model.statements.OpenRFile@3c756e4d;(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff))))))
+
+Symtable {
+varf->test.in
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff)))))
+model.statements.OpenRFile@3c756e4d
+
+Symtable {
+varf->test.in
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+
+Symtable {
+varf->test.in
+}
+
+Output list: []
+FileTable:
+test.in
+
+PrgState : 
+Exec stack:
+(String varf;(varf = test.in;(model.statements.OpenRFile@4de8b406;(int varc;(model.statements.ReadFileStatement@3c756e4d;(print(varc);(model.statements.ReadFileStatement@7c0e2abd;(print(varc);model.statements.CloseRFile@48eff760))))))))
+
+Symtable {
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(varf = test.in;(model.statements.OpenRFile@4de8b406;(int varc;(model.statements.ReadFileStatement@3c756e4d;(print(varc);(model.statements.ReadFileStatement@7c0e2abd;(print(varc);model.statements.CloseRFile@48eff760)))))))
+String varf
+
+Symtable {
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(varf = test.in;(model.statements.OpenRFile@4de8b406;(int varc;(model.statements.ReadFileStatement@3c756e4d;(print(varc);(model.statements.ReadFileStatement@7c0e2abd;(print(varc);model.statements.CloseRFile@48eff760)))))))
+
+Symtable {
+varf->
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(model.statements.OpenRFile@4de8b406;(int varc;(model.statements.ReadFileStatement@3c756e4d;(print(varc);(model.statements.ReadFileStatement@7c0e2abd;(print(varc);model.statements.CloseRFile@48eff760))))))
+varf = test.in
+
+Symtable {
+varf->
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(model.statements.OpenRFile@4de8b406;(int varc;(model.statements.ReadFileStatement@3c756e4d;(print(varc);(model.statements.ReadFileStatement@7c0e2abd;(print(varc);model.statements.CloseRFile@48eff760))))))
+
+Symtable {
+varf->test.in
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(int varc;(model.statements.ReadFileStatement@3c756e4d;(print(varc);(model.statements.ReadFileStatement@7c0e2abd;(print(varc);model.statements.CloseRFile@48eff760)))))
+model.statements.OpenRFile@4de8b406
+
+Symtable {
+varf->test.in
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+
+Symtable {
+varf->test.in
+}
+
+Output list: []
+FileTable:
+test.in
+
+PrgState : 
+Exec stack:
+(String varf;(varf = test.in;(model.statements.OpenRFile@3c756e4d;(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff))))))))
+
+Symtable {
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(varf = test.in;(model.statements.OpenRFile@3c756e4d;(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff)))))))
+String varf
+
+Symtable {
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(varf = test.in;(model.statements.OpenRFile@3c756e4d;(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff)))))))
+
+Symtable {
+varf->
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(model.statements.OpenRFile@3c756e4d;(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff))))))
+varf = test.in
+
+Symtable {
+varf->
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(model.statements.OpenRFile@3c756e4d;(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff))))))
+
+Symtable {
+varf->test.in
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff)))))
+model.statements.OpenRFile@3c756e4d
+
+Symtable {
+varf->test.in
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+
+Symtable {
+varf->test.in
+}
+
+Output list: []
+FileTable:
+test.in
+
+PrgState : 
+Exec stack:
+(String varf;(varf = test.in;(model.statements.OpenRFile@3c756e4d;(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff))))))))
+
+Symtable {
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(varf = test.in;(model.statements.OpenRFile@3c756e4d;(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff)))))))
+String varf
+
+Symtable {
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(varf = test.in;(model.statements.OpenRFile@3c756e4d;(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff)))))))
+
+Symtable {
+varf->
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(model.statements.OpenRFile@3c756e4d;(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff))))))
+varf = test.in
+
+Symtable {
+varf->
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(model.statements.OpenRFile@3c756e4d;(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff))))))
+
+Symtable {
+varf->test.in
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff)))))
+model.statements.OpenRFile@3c756e4d
+
+Symtable {
+varf->test.in
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+
+Symtable {
+varf->test.in
+}
+
+Output list: []
+FileTable:
+test.in
+
+PrgState : 
+Exec stack:
+(String varf;(varf = test.in;(model.statements.OpenRFile@3c756e4d;(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff))))))))
+
+Symtable {
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(varf = test.in;(model.statements.OpenRFile@3c756e4d;(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff)))))))
+String varf
+
+Symtable {
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(varf = test.in;(model.statements.OpenRFile@3c756e4d;(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff)))))))
+
+Symtable {
+varf->
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(model.statements.OpenRFile@3c756e4d;(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff))))))
+varf = test.in
+
+Symtable {
+varf->
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(model.statements.OpenRFile@3c756e4d;(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff))))))
+
+Symtable {
+varf->test.in
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff)))))
+model.statements.OpenRFile@3c756e4d
+
+Symtable {
+varf->test.in
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff)))))
+
+Symtable {
+varf->test.in
+}
+
+Output list: []
+FileTable:
+test.in
+
+PrgState : 
+Exec stack:
+(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff))))
+int varc
+
+Symtable {
+varf->test.in
+}
+
+Output list: []
+FileTable:
+test.in
+
+PrgState : 
+Exec stack:
+(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff))))
+
+Symtable {
+varf->test.in
+varc->0
+}
+
+Output list: []
+FileTable:
+test.in
+
+PrgState : 
+Exec stack:
+(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff)))
+model.statements.ReadFileStatement@7c0e2abd
+
+Symtable {
+varf->test.in
+varc->0
+}
+
+Output list: []
+FileTable:
+test.in
+
+PrgState : 
+Exec stack:
+(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff)))
+
+Symtable {
+varf->test.in
+varc->15
+}
+
+Output list: []
+FileTable:
+test.in
+
+PrgState : 
+Exec stack:
+(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff))
+print(varc)
+
+Symtable {
+varf->test.in
+varc->15
+}
+
+Output list: []
+FileTable:
+test.in
+
+PrgState : 
+Exec stack:
+(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff))
+
+Symtable {
+varf->test.in
+varc->15
+}
+
+Output list: [15, ]
+FileTable:
+test.in
+
+PrgState : 
+Exec stack:
+(print(varc);model.statements.CloseRFile@402f32ff)
+model.statements.ReadFileStatement@48eff760
+
+Symtable {
+varf->test.in
+varc->15
+}
+
+Output list: [15, ]
+FileTable:
+test.in
+
+PrgState : 
+Exec stack:
+(print(varc);model.statements.CloseRFile@402f32ff)
+
+Symtable {
+varf->test.in
+varc->50
+}
+
+Output list: [15, ]
+FileTable:
+test.in
+
+PrgState : 
+Exec stack:
+model.statements.CloseRFile@402f32ff
+print(varc)
+
+Symtable {
+varf->test.in
+varc->50
+}
+
+Output list: [15, ]
+FileTable:
+test.in
+
+PrgState : 
+Exec stack:
+model.statements.CloseRFile@402f32ff
+
+Symtable {
+varf->test.in
+varc->50
+}
+
+Output list: [15, 50, ]
+FileTable:
+test.in
+
+PrgState : 
+Exec stack:
+(String varf;(varf = test.in;(model.statements.OpenRFile@3c756e4d;(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff))))))))
+
+Symtable {
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(varf = test.in;(model.statements.OpenRFile@3c756e4d;(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff)))))))
+String varf
+
+Symtable {
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(varf = test.in;(model.statements.OpenRFile@3c756e4d;(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff)))))))
+
+Symtable {
+varf->
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(model.statements.OpenRFile@3c756e4d;(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff))))))
+varf = test.in
+
+Symtable {
+varf->
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(model.statements.OpenRFile@3c756e4d;(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff))))))
+
+Symtable {
+varf->test.in
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff)))))
+model.statements.OpenRFile@3c756e4d
+
+Symtable {
+varf->test.in
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff)))))
+
+Symtable {
+varf->test.in
+}
+
+Output list: []
+FileTable:
+test.in
+
+PrgState : 
+Exec stack:
+(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff))))
+int varc
+
+Symtable {
+varf->test.in
+}
+
+Output list: []
+FileTable:
+test.in
+
+PrgState : 
+Exec stack:
+(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff))))
+
+Symtable {
+varf->test.in
+varc->0
+}
+
+Output list: []
+FileTable:
+test.in
+
+PrgState : 
+Exec stack:
+(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff)))
+model.statements.ReadFileStatement@7c0e2abd
+
+Symtable {
+varf->test.in
+varc->0
+}
+
+Output list: []
+FileTable:
+test.in
+
+PrgState : 
+Exec stack:
+(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff)))
+
+Symtable {
+varf->test.in
+varc->15
+}
+
+Output list: []
+FileTable:
+test.in
+
+PrgState : 
+Exec stack:
+(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff))
+print(varc)
+
+Symtable {
+varf->test.in
+varc->15
+}
+
+Output list: []
+FileTable:
+test.in
+
+PrgState : 
+Exec stack:
+(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff))
+
+Symtable {
+varf->test.in
+varc->15
+}
+
+Output list: [15, ]
+FileTable:
+test.in
+
+PrgState : 
+Exec stack:
+(print(varc);model.statements.CloseRFile@402f32ff)
+model.statements.ReadFileStatement@48eff760
+
+Symtable {
+varf->test.in
+varc->15
+}
+
+Output list: [15, ]
+FileTable:
+test.in
+
+PrgState : 
+Exec stack:
+(print(varc);model.statements.CloseRFile@402f32ff)
+
+Symtable {
+varf->test.in
+varc->50
+}
+
+Output list: [15, ]
+FileTable:
+test.in
+
+PrgState : 
+Exec stack:
+model.statements.CloseRFile@402f32ff
+print(varc)
+
+Symtable {
+varf->test.in
+varc->50
+}
+
+Output list: [15, ]
+FileTable:
+test.in
+
+PrgState : 
+Exec stack:
+model.statements.CloseRFile@402f32ff
+
+Symtable {
+varf->test.in
+varc->50
+}
+
+Output list: [15, 50, ]
+FileTable:
+test.in
+
+PrgState : 
+Exec stack:
+
+Symtable {
+varf->test.in
+varc->50
+}
+
+Output list: [15, 50, ]
+FileTable:
+test.in
+
+PrgState : 
+Exec stack:
+(String varf;(varf = test.in;(model.statements.OpenRFile@3c756e4d;(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff))))))))
+
+Symtable {
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(varf = test.in;(model.statements.OpenRFile@3c756e4d;(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff)))))))
+String varf
+
+Symtable {
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(varf = test.in;(model.statements.OpenRFile@3c756e4d;(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff)))))))
+
+Symtable {
+varf->
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(model.statements.OpenRFile@3c756e4d;(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff))))))
+varf = test.in
+
+Symtable {
+varf->
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(model.statements.OpenRFile@3c756e4d;(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff))))))
+
+Symtable {
+varf->test.in
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff)))))
+model.statements.OpenRFile@3c756e4d
+
+Symtable {
+varf->test.in
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(int varc;(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff)))))
+
+Symtable {
+varf->test.in
+}
+
+Output list: []
+FileTable:
+test.in
+
+PrgState : 
+Exec stack:
+(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff))))
+int varc
+
+Symtable {
+varf->test.in
+}
+
+Output list: []
+FileTable:
+test.in
+
+PrgState : 
+Exec stack:
+(model.statements.ReadFileStatement@7c0e2abd;(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff))))
+
+Symtable {
+varf->test.in
+varc->0
+}
+
+Output list: []
+FileTable:
+test.in
+
+PrgState : 
+Exec stack:
+(print(varc);(model.statements.ReadFileStatement@48eff760;(print(varc);model.statements.CloseRFile@402f32ff)))
+model.statements.ReadFileStatement@7c0e2abd
+
+Symtable {
+varf->test.in
+varc->0
+}
+
+Output list: []
+FileTable:
+test.in
+

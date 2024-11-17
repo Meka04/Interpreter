@@ -1,0 +1,162 @@
+PrgState : 
+Exec stack:
+(bool a;(int v;(a = true;(if(a){
+v = 2}
+else{
+v = 3
+};print(v)))))
+
+Symtable {
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(int v;(a = true;(if(a){
+v = 2}
+else{
+v = 3
+};print(v))))
+bool a
+
+Symtable {
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(int v;(a = true;(if(a){
+v = 2}
+else{
+v = 3
+};print(v))))
+
+Symtable {
+a->false
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(a = true;(if(a){
+v = 2}
+else{
+v = 3
+};print(v)))
+int v
+
+Symtable {
+a->false
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(a = true;(if(a){
+v = 2}
+else{
+v = 3
+};print(v)))
+
+Symtable {
+a->false
+v->0
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(if(a){
+v = 2}
+else{
+v = 3
+};print(v))
+a = true
+
+Symtable {
+a->false
+v->0
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(if(a){
+v = 2}
+else{
+v = 3
+};print(v))
+
+Symtable {
+a->true
+v->0
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+print(v)
+if(a){
+v = 2}
+else{
+v = 3
+}
+
+Symtable {
+a->true
+v->0
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+print(v)
+v = 2
+
+Symtable {
+a->true
+v->0
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+print(v)
+
+Symtable {
+a->true
+v->2
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+
+Symtable {
+a->true
+v->2
+}
+
+Output list: [2, ]
+FileTable:
+

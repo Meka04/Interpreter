@@ -1,0 +1,117 @@
+PrgState : 
+Exec stack:
+(int a;(int b;(a = 2+ 3* 5;(b = a+ 1;print(b)))))
+
+Symtable {
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(int b;(a = 2+ 3* 5;(b = a+ 1;print(b))))
+int a
+
+Symtable {
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(int b;(a = 2+ 3* 5;(b = a+ 1;print(b))))
+
+Symtable {
+a->0
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(a = 2+ 3* 5;(b = a+ 1;print(b)))
+int b
+
+Symtable {
+a->0
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(a = 2+ 3* 5;(b = a+ 1;print(b)))
+
+Symtable {
+a->0
+b->0
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(b = a+ 1;print(b))
+a = 2+ 3* 5
+
+Symtable {
+a->0
+b->0
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+(b = a+ 1;print(b))
+
+Symtable {
+a->17
+b->0
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+print(b)
+b = a+ 1
+
+Symtable {
+a->17
+b->0
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+print(b)
+
+Symtable {
+a->17
+b->18
+}
+
+Output list: []
+FileTable:
+
+PrgState : 
+Exec stack:
+
+Symtable {
+a->17
+b->18
+}
+
+Output list: [18, ]
+FileTable:
+
